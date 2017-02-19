@@ -1,0 +1,5 @@
+name="liontvsss Build"
+url="https://sabercathost.com/4Ge2/liontvsss_wizard_build_backup.zip"
+img="http://www.liontvsss.com/images/Wizard/icon.png"
+fanart="http://www.liontvsss.com/images/Wizard/fanart.jpg"
+description="liontvsss"
